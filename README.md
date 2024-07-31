@@ -9,3 +9,5 @@ Directions to use:
 
 ## Text Generator
 Under construction for a future release.
+- There will be a number input for users to specify how many characters of random text they want to generate. The app will provide exactly that.
+- There will be a button to generate one paragraph of Lorem Ipsum text.
