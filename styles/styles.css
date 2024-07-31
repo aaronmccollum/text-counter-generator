@@ -1,0 +1,22 @@
+/* GLOBAL STYLES */
+body {
+    font-family: "Montserrat", sans-serif;
+    margin: 10px 5% 0 5%;
+}
+.directions-p {
+    margin: -15px 0 20px 0;
+}
+.red-text {
+    color: red;
+}
+
+/* COUNTER STYLES */
+#text-counter-container {
+    display: flex;
+}
+#counter-results {
+    margin: -3px 0 0 20px;
+}
+#counter-submit-button {
+    margin-top: 7px;
+}
