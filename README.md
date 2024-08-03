@@ -8,6 +8,7 @@ Directions to use:
 3. (note) The current returned character number includes returns. For pure character count, make sure to post just one paragraph (regardless of size) into the text box.
 
 ## Text Generator
-Under construction for a future release.
-- There will be a number input for users to specify how many characters of random text they want to generate. The app will provide exactly that.
-- There will be a button to generate one paragraph of Lorem Ipsum text.
+Directions to use:
+1. Type a number into the text field
+2. Generate the Lorem Ipsum text
+3. Copy and paste wherever you need it
