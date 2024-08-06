@@ -1,6 +1,8 @@
 /* GLOBAL STYLES */
 body {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     margin: 10px 5% 0 5%;
 }
 .directions-p {
@@ -8,6 +10,44 @@ body {
 }
 .red-text {
     color: red;
+}
+
+/* PAGE STYLES */
+#top-section {
+    background-color: #ddffdc;
+    min-height: 350px;
+}
+
+#counter-header {
+    background-color: #0F9D58;
+    color: white;
+    width: 100%;
+    padding-left: 4px;
+}
+
+#bottom-section {
+    background-color: #ccdaff;
+    min-height: 400px;
+    margin-top: -15px;
+}
+
+#generator-header {
+    background-color: #4285F4;
+    color: white;
+    width: 100%;
+    padding-left: 4px;
+}
+
+#counter-submit-button, #generator-submit-button {
+    background-color: #DB4437;
+    color: white;
+}
+
+button {
+    border-radius: 10px;
+    width: 120px;
+    height: 28px;
+    font-weight: bold;
 }
 
 /* COUNTER STYLES */
