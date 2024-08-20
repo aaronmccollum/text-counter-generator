@@ -43,6 +43,7 @@ generatorButton.addEventListener('click', function() {
 // Resets number in counter user input area
 counterReset.addEventListener('click', function() {
     counterTextarea.value = '';
+    counterResults.innerText = 'Character count: 0';
 })
 
 // Resets the results paragraph
